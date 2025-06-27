@@ -1,0 +1,28 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*.so
+
+# Environment
+.env
+env/
+.venv/
+venv/
+ENV/
+env.bak/
+
+# VSCode or PyCharm or IDEs
+.vscode/
+.idea/
+
+# macOS system files
+.DS_Store
+
+# CSV files if you want to ignore them (optional)
+# *.csv
+
+# Logs
+*.log
+
+# Others
+*.swp
